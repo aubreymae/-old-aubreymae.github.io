@@ -1,4 +1,4 @@
-<!-- default.html contains all the content common/sa,e in all -->
+<!-- default.html contains all the content common/same in all -->
 
 <!DOCTYPE html>
 <html lang="en-ca">
@@ -12,10 +12,14 @@
 <body>
   <header>
     <strong>Navigation</strong>
-    {% include nav.html %}
+    {% include nav.html navclass='navtop' %}
   </header>
 
   {{content}}
 </body>
+
+<footer>
+  {% include nav.html navclass='navbottom' %}
+</footer>
 
 </html>
