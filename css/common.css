@@ -1,18 +1,226 @@
-html
-{
-  margin: 0;
-  padding: 0;
+/*
 
-  font: normal 100%/1.4 Georgia, serif;
+My First Website CSS
+
+*/
+
+#body
+{
+	background-color: white;
 }
 
-.current
+h2
 {
-  background-color: #000531;
-  color: #ffffff;
+	font-family: Arial;
+
+	color: #3a332b;
 }
 
-.navtop
+h3
 {
-  font-size: 1.25rem;
+	font-family: Arial;
+
+	color: #3a332b;
 }
+
+
+a
+{
+	font-family: Arial;
+	text-decoration: none;
+
+	color: #3a332b;
+}
+
+a:active
+{
+	color: black;
+}
+
+/** HEADER **/
+#header
+{
+	position: relative;
+
+	top: -10px;
+	right: 320px;
+	left: 320px;
+
+	width: 960px;
+	height: 200px;
+
+	background: #e0c73d;
+}
+
+/*
+#icon
+{
+	position: absolute;
+
+	top: 30px;
+	left: 750px;
+
+	width: 100px;
+	height: 100px;
+
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+
+	background: white;
+}
+*/
+
+#desc
+{
+	position: absolute;
+
+	top: 120px;
+	left: 650px;
+
+	width: 410px;
+	height: 50px;
+
+	background: none;
+}
+
+#name
+{
+	font-family: Arial;
+
+	color: white;
+}
+
+/** MENU NAVIGATION **/
+#nav
+{
+	position: absolute;
+
+	top: 200px;
+	left: 80px;
+
+	width: 800px;
+	height: 40px;
+
+	background: #e7e0d8;
+}
+
+#about
+{
+	position: absolute;
+
+	margin-top: 13px;
+	margin-left: 119px;
+
+	font-family: Arial;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+	color: #3a332b;
+}
+
+#portfolio
+{
+	position: absolute;
+
+	margin-top: 13px;
+	margin-left: 319px;
+
+	font-family: Arial;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+	color: #3a332b;
+}
+
+#contact
+{
+	position: absolute;
+
+	margin-top: 13px;
+	margin-left: 564px;
+
+	font-family: Arial;
+	font-weight: bold;
+	letter-spacing: 2px;
+
+	color: #3a332b;
+}
+
+/** MAIN CONTENT **/
+.mainpic
+{
+	position: absolute;
+
+	width: 530px;
+	height: 670px;
+
+	background: #3a332b;
+}
+
+#maincontent
+{
+	position: absolute;
+
+	top: 250px;
+	left: 250px;
+
+	width: 1104px;
+	height: 700px;
+
+	background: #f4ede3;
+}
+
+#maintext
+{
+	position: absolute;
+
+	left: 528px;
+
+	width: 540px;
+	height: 620px;
+
+	padding: 25px;
+
+	line-height: 1.5;
+
+	overflow: scroll;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.bodytext
+{
+	font-family: Arial;
+
+	color: #444444;
+}
+
+/** FOOTER **/
+#footer
+{
+	position: absolute;
+
+	top: 920px;
+	left: 250px;
+
+	width: 1104px;
+	height: 50px;
+
+	background: #3a332b;
+}
+
+
+/*
+*
+*
+* CSS FOR PAGES
+*
+*
+*/
+
+
+/** PORTFOLIO **/
+
+
+/** CONTACT **/
