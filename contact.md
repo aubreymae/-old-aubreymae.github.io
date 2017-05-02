@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Contact
+title: How can I get in touch?
 permalink: /contact
 ---
 
-For business inquiries, Aubrey can be reached by email at aubreymaerg@gmail.com.
-
-She is also on Instagram where she posts her artwork with a side of aesthetic shenanigans! Follow her @aubsimg.
+You can contact me through email at aubreymaerg@gmail.com. I'm also on social media, posting my artwork on my Instagram at @aubsimg!

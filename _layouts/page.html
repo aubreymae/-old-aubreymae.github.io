@@ -1,7 +1,8 @@
 ---
-layout: index
+layout: default
 ---
 
-<h2>{{ page.title }}</h2>
-
-<p class="bodytext">{{ content }}</p>
+<div class="site-content">
+  <p class="content-page-title">{{ page.title }}</p>
+  <p class="content-page-text">{{ content | remove: '<p>' | remove: '</p>' }}</p>
+</div>

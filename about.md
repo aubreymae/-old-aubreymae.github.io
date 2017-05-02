@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /
+title: Hello!
+permalink: /about
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Aubrey Garcia is an aspiring designer. She is currently an undergraduate of the Digital Media program at York University, Toronto.
-She is passionate about design theory and nothing makes her happier than good colour combinations. Inspired by the works of 2D and 3D artists Goro Fujita and _____ and by the design work of illustrators such as ______ and web designer _____, she aspires to create sleek, modern and unique works with her growing creativity.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
