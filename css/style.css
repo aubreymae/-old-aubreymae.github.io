@@ -12,9 +12,33 @@
 	IMPORTED FONTS
 *  ============================================================== */
 
-@import url('https://fonts.googleapis.com/css?family=Cabin|Droid+Sans|Josefin+Sans|Open+Sans+Condensed:300|Rationale');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans|Josefin+Sans|Open+Sans+Condensed:300|Rationale|Quicksand');
 
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+  position: relative;
+
+	font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  color: #787878;
+}
+
+a
+{
+  text-decoration: none;
+  color: #5fcebf;
+}
+
+a:hover
+{
+  color: #f4df41;
+}
 
 /* ============================================================== *
 	SIDEBAR
@@ -44,6 +68,11 @@
 	font-weight: bold;
 	text-transform: uppercase;
 	color: white;
+}
+
+.site-sb-title:hover
+{
+  color: #f4df41;
 }
 
 .site-sb-desc-tags
@@ -153,10 +182,10 @@
 {
 	position: relative;
 
-	font-family: 'Rationale', sans-serif;
-	font-size: 35px;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 38px;
 	font-weight: bold;
-	color: #333333;
+	color: #5fcebf;
 }
 
 .content-page-text
@@ -217,13 +246,27 @@
 	display: block;
 }
 
+#posters-content
+{
+  text-align: center;
+}
+
 .designwork-img
 {
 	display: inline-block;
 	margin-right: auto;
-	margin-bottom: 10px;
 	margin-left: auto;
 
-	width: 510px;
-	height: 660px;
+	width: 275px;
+	height: 350px;
+}
+
+.portfolio3940-img
+{
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+
+    width: 530px;
+    height: 680px;
 }
