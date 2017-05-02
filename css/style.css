@@ -120,6 +120,7 @@ a:hover
 
 .site-sb-block a:hover
 {
+  color: white;
 	background-color: #f4df41;
 }
 
